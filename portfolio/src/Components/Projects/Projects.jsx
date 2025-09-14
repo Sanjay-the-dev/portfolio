@@ -27,8 +27,8 @@ const Projects = () => {
           <ul className='features'>
             <h1 className='TheGreen'>Features</h1>
             <li>Add Tasks – Users can type a task and add it to the list dynamically.</li>
-            <li>Delete Tasks – Tasks can be removed from the list anytime.</li>
-            <li>Local Storage Support (optional) – Tasks remain saved even after refreshing the page.</li>
+            <li>Delete & rearrange Tasks – Tasks can be removed or rearranged from the list anytime.</li>
+            <li>Local Storage used – Tasks remain saved even after refreshing the page.</li>
             <li>Responsive Layout – Works across mobile and desktop devices.</li>
          
           </ul>
