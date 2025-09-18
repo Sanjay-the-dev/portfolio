@@ -23,12 +23,22 @@
     color: rgb(225, 241, 202);
     cursor: pointer;
     font-size: 1.2rem;
-    transition: 0.2s;
 
+
+}
+.NavMenu li{
+
+    transition: all 0.5s ease-in-out;
+    border: 2px solid transparent;
+    transition: border-color 0.3s ease-out;
 }
 .NavMenu li:hover{
 
     color: aqua;
+    border-radius: 1px;
+    border-bottom: 2px solid aqua;
+    transition: border-color 0.3s ease-in;
+
 
 }
 
