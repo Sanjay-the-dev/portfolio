@@ -5,7 +5,7 @@ import project_img from '../../assets/project-img.png'
 
 const Projects = () => {
   return (
-    <div  className='projects'>  
+    <div id='Projects' className='projects'>  
 
       <div className="project-title">
         <h1 >Projects</h1>
